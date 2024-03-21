@@ -54,4 +54,5 @@ jobs:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
           https://github.com/ibrahimadaballi/ibrahimadaballi/blob/output/github-contribution-grid-snake.gif
+          ![snake gif](https://github.com/ibrahimadaballi/ibrahimadaballi/blob/output/github-contribution-grid-snake.gif)
           [![.github/workflows/MAIN.yml](https://github.com/ibrahimadaballi/ibrhimadaballi/actions/workflows/MAIN.yml/badge.svg?branch=main)](https://github.com/ibrahimadaballi/ibrhimadaballi/actions/workflows/MAIN.yml)
