@@ -53,4 +53,4 @@ jobs:
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          ![snake gif](https://github.com/YOUR_USERNAME/YOUR_USERNAME/blob/output/github-contribution-grid-snake.gif/><b>
+          ![snake gif](https://github.com/ibrahimadaballi/ibrahimadaballi/blob/output/github-contribution-grid-snake.gif/><b>
